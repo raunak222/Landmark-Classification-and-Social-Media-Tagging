@@ -1,0 +1,1 @@
+First model is trained from scratch and second model is using pre-trained model resnet-50 weights
